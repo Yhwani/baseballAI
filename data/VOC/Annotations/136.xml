@@ -1,0 +1,26 @@
+<annotation>
+	<folder>dataset</folder>
+	<filename>136.PNG</filename>
+	<path>C:\Users\user\Desktop\dataset\136.PNG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1191</width>
+		<height>671</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>ball</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>893</xmin>
+			<ymin>141</ymin>
+			<xmax>914</xmax>
+			<ymax>160</ymax>
+		</bndbox>
+	</object>
+</annotation>
